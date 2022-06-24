@@ -1,5 +1,7 @@
 # Plataforma de Aulas
 
+## README em construção...
+
 ### Bibliotecas
 
 - TailwindCSS (npm i tailwindcss )
