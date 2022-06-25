@@ -1,5 +1,7 @@
 # Plataforma de Aulas
 
+![alt text](https://github.com/guilhermemigliano/plataforma-de-aulas/blob/main/images/sample.png)
+
 ## README em construção...
 
 ### Bibliotecas
