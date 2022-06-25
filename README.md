@@ -32,6 +32,6 @@ Utilize os comandos para instalação:
   npm run dev
 ```
 
-cd event-platform - acessa a pasta do projeto
-npm install - instala as dependências/pacotes do projeto
-npm run dev - rodar a aplicação
+- cd event-platform - acessa a pasta do projeto
+- npm install - instala as dependências/pacotes do projeto
+- npm run dev - rodar a aplicação
