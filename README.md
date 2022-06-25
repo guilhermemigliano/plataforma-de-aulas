@@ -2,18 +2,36 @@
 
 ![alt text](https://github.com/guilhermemigliano/plataforma-de-aulas/blob/main/images/sample.png)
 
-## README em construção...
+## Sobre
 
-### Bibliotecas
-
-- TailwindCSS (npm i tailwindcss )
-- Postcss (npm i postcss)
-- AutoPrefixer (npm i autoprefixer)
-- Apollo Client (npm i @apollo/client)
-- GraphQL (npm i graphql)
-- VimeJS (npm i @vime/core @vime/react) utilizada para customizar media player
-- ReactRouterDom (npm i react-router-dom)
+Aplicação desenvolvida no evento Ignite da [RockeatSeat](https://www.rocketseat.com.br/ignite) utilizando React
 
 ## Aplicação
 
-## https://plataforma-de-aulas.vercel.app
+Foi desenvolvida uma aplicação onde tem uma página em que é possível o usuário se inscrever (não possui nenhum sistema de autenticação) e uma página onde mostra as aulas disponíveis para assistir.
+
+[Plataforma de Aulas - Site](https://plataforma-de-aulas.vercel.app)
+
+### Bibliotecas
+
+- TailwindCSS
+- Postcss
+- AutoPrefixer
+- Apollo Client
+- GraphQL
+- VimeJS
+- React-Router-Dom
+
+### Instalação
+
+Utilize os comandos para instalação:
+
+```bash
+  cd event-platform
+  npm install
+  npm run dev
+```
+
+cd event-platform - acessa a pasta do projeto
+npm install - instala as dependências/pacotes do projeto
+npm run dev - rodar a aplicação
